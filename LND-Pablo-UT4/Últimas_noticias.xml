@@ -3,30 +3,36 @@
         <Item>
             <Titulo>Noticias beisbol</Titulo>
             <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
-            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
             <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
-            <Image></Image>
-            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
+            <Image>
+                <img src="Images/imagenot.jpg"/>
+            </Image>
 
         </Item>
 
         <Item>
             <Titulo>Noticias beisbol</Titulo>
             <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
-            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
             <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
-            <Image></Image>
-            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
+            <Image>
+                <img src="Images/imagenot.jpg"/>
+            </Image>
 
         </Item>
 
         <Item>
             <Titulo>Noticias beisbol</Titulo>
             <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
-            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
             <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
-            <Image></Image>
-            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
+            <Image>
+                <img src="Images/imagenot.jpg"/>
+            </Image>
 
         </Item>
 
