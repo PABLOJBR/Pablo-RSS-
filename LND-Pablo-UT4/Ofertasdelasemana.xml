@@ -1,0 +1,35 @@
+<rss>
+    <channel>
+        <Item>
+
+            <Titulo>Llevate la camiseta de tu equipo favorito</Titulo>
+            <Descripcion> Camisetas de diferentes equipos de la MLB con un 20% de descuento </Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image>C:\Users\Pablo Betancor\Pictures/kakijpg</Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+        <Item>
+
+            <Titulo>Pantolenes de la ultima moda</Titulo>
+            <Descripcion> Pantalones con diseños de diferentes equipos de la MLB con un 20% de descuento </Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image></Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+        <Item>
+
+            <Titulo>Elije tu gorra favorita </Titulo>
+            <Descripcion> Gorras de diferentes equipos de la MLB con un 20% de descuento </Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image></Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+
+    </channel>
+</rss>

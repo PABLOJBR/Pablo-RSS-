@@ -1,0 +1,34 @@
+<rss>
+    <channel>
+        <Item>
+            <Titulo>Noticias beisbol</Titulo>
+            <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image></Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+
+        <Item>
+            <Titulo>Noticias beisbol</Titulo>
+            <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image></Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+
+        <Item>
+            <Titulo>Noticias beisbol</Titulo>
+            <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
+            <link>https://pablojbr.github.io/LND-Pablo-UT4/</link>
+            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <Image></Image>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+
+        </Item>
+
+    </channel>
+</rss>
