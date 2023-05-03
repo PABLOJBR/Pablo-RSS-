@@ -1,13 +1,26 @@
-<rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
     <channel>
         <Item>
-            <Titulo>Noticias beisbol</Titulo>
-            <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
+            <title>Noticias beisbol</title>
+            <description>Ultimas noticias en el mundo dek beisbol</description>
             <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
-            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <pubDate>Thu, 27 Apr 2006</pubDate>
             <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
             <Image>
-                <img src="Images/imagenot.jpg"/>
+                <url>Images/ropa.jpg</url>
+            </Image>
+
+        </Item>
+
+        <Item>
+            <title>Noticias beisbol</title>
+            <description>Ultimas noticias en el mundo dek beisbol</description>
+            <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
+            <pubDate>Thu, 27 Apr 2006</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
+            <Image>
+                <url>Images/ropa.jpg</url>
             </Image>
 
         </Item>
@@ -19,19 +32,7 @@
             <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
             <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
             <Image>
-                <img src="Images/imagenot.jpg"/>
-            </Image>
-
-        </Item>
-
-        <Item>
-            <Titulo>Noticias beisbol</Titulo>
-            <Descripcion>Ultimas noticias en el mundo dek beisbol</Descripcion>
-            <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
-            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
-            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
-            <Image>
-                <img src="Images/imagenot.jpg"/>
+                <img src="Images/imagenot.jpg" />
             </Image>
 
         </Item>

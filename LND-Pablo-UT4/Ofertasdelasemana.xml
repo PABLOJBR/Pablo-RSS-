@@ -1,26 +1,28 @@
-<rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
     <channel>
         <Item>
 
-            <Titulo>Llevate la camiseta de tu equipo favorito</Titulo>
-            <Descripcion> Camisetas de diferentes equipos de la MLB con un 20% de descuento </Descripcion>
+            <title>Llevate la camiseta de tu equipo favorito</title>
+            <description> Camisetas de diferentes equipos de la MLB con un 20% de descuento </description>
             <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
-            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <pubDate>Thu, 27 Apr 2006</pubDate>
             <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
             <Image>
-                <img src="Images/ropa.jpg"/>
+                <url>Images/ropa.jpg</url>
             </Image>
 
         </Item>
         <Item>
 
-            <Titulo>Pantolenes de la ultima moda</Titulo>
-            <Descripcion> Pantalones con diseños de diferentes equipos de la MLB con un 20% de descuento </Descripcion>
+            <title>Pantolenes de la ultima moda</title>
+            <description> Pantalones con diseños de diferentes equipos de la MLB con un 20% de
+                descuento </description>
             <link>https://pablojbr.github.io/Pablo-RSS-/LND-Pablo-UT4/index.html</link>
-            <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
+            <pubDate>Thu, 27 Apr 2006</pubDate>
             <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
             <Image>
-                <img src="Images/ropa.jpg"/>
+                <url>Images/ropa.jpg</url>
             </Image>
 
         </Item>
@@ -32,7 +34,7 @@
             <Fecha_publicacion>21 abril 2023</Fecha_publicacion>
             <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New_Yorc_Times</category>
             <Image>
-                <img src="Images/ropa.jpg"/>
+                <img src="Images/ropa.jpg" />
             </Image>
 
         </Item>
